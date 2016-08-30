@@ -239,7 +239,7 @@ function create_config( )
     "spam",
     "leave",
   },
-    sudo_users = {172575556,65609166,198985878},
+    sudo_users = {140760293},
     admin_users = {},
     disabled_channels = {}
   }
